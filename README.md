@@ -11,9 +11,9 @@ exercice two
 
 Unorderd List
 
-1. Peter Pan
-2. Luisana Bar & Grill
-3. Alex
-4. Reep
+- Peter Pan
+- Luisana Bar & Grill
+- Alex
+- Reep
 
 
